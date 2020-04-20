@@ -17,11 +17,11 @@ accessibility:
   locations: 50
   none: 0
 goals:
-  ganon: 40
-  fast_ganon: 30
+  ganon: 35
+  fast_ganon: 25
   dungeons: 5
-  pedestal: 15
-  triforce-hunt: 10
+  pedestal: 17.5
+  triforce-hunt: 17.5
 tower_open:
   '0': 0
   '1': 0
@@ -30,8 +30,8 @@ tower_open:
   '4': 0
   '5': 0
   '6': 0
-  '7': 85
-  random: 15
+  '7': 65
+  random: 35
 ganon_open:
   '0': 0
   '1': 0
@@ -40,8 +40,8 @@ ganon_open:
   '4': 0
   '5': 0
   '6': 0
-  '7': 85
-  random: 15
+  '7': 65
+  random: 65
 world_state:
   standard: 35
   open: 50
